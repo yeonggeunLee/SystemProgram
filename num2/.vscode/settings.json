@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/yg/sysprograming/lab02/num2",
+            "binaryPath": "/home/yg/sysprograming/lab02/num2/main",
+            "binaryArgs": []
+        }
+    ]
+}
